@@ -1,4 +1,4 @@
-# Food Ordering App
+# Foody - A Food Ordering App Project
 
 This is a Food Ordering App built using the [Getx](https://github.com/jonataslaw/getx) library for efficient state management. Getx provides a simple and powerful solution for managing reactive state, navigation, and dependencies in Flutter applications.
 
