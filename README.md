@@ -7,31 +7,31 @@ For the backend, the app utilizes the popular [Laravel](https://laravel.com/) fr
 ## Screenshots
 
 ### Home Page
-<img src="screenshots/home_page.png" width="300">
+<img src="screenshots/home_page.png" width="200">
 
 ### Food Details Page
-<img src="screenshots/food_details_page.png" width="300">
+<img src="screenshots/food_details_page.png" width="200">
 
 ### Menu Page
-<img src="screenshots/menu_page.png" width="300">
+<img src="screenshots/menu_page.png" width="200">
 
 ### Cart History Page
-<img src="screenshots/cart_history_page.png" width="300">
+<img src="screenshots/cart_history_page.png" width="200">
 
 ### Account Page
-<img src="screenshots/account_page.png" width="300">
+<img src="screenshots/account_page.png" width="200">
 
 ### Cart Page
-<img src="screenshots/cart_page.png" width="300">
+<img src="screenshots/cart_page.png" width="200">
 
 ### Address Page
-<img src="screenshots/address_page.png" width="300">
+<img src="screenshots/address_page.png" width="200">
 
 ### Map Address Selection Page
-<img src="screenshots/map_address_selection_page.png" width="300">
+<img src="screenshots/map_address_selection_page.png" width="200">
 
 ### Sign In Page
-<img src="screenshots/sign_in_page.png" width="300">
+<img src="screenshots/sign_in_page.png" width="200">
 
 ## Getting Started
 
